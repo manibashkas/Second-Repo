@@ -15,6 +15,7 @@ int OnInit()
   Print("Hello world!");
   Print("let me see you rock");
   Print("shit happens");
+  Print("Who is this");
 //---
    
 //---
